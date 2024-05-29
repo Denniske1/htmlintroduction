@@ -1,0 +1,53 @@
+ul{
+  list-style-type: none;
+  margin-bottom: 0;
+  padding: 0;
+  background-color: lightskyblue;
+  overflow: hidden;
+
+}
+
+li{
+  float: left;
+}
+li a{
+  padding: 30px;
+  color: #cc03c3;
+  display: block;
+  text-decoration: none;
+}
+  h2{
+    color: purple;
+    text-align: center;
+  }
+p{
+  color: #110f0f;
+  font-family: "New Peninim MT";
+  font-size: 20px;
+}
+
+
+th,td{
+  border: 2px solid red;
+  padding: 30px;
+  font-family: "Noto Sans Old Italic";
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+form {
+  padding: 35px;
+  float: left;
+  text-align: center;
+}
+
+.myform{
+  border: 4px solid coral;
+  text-align: left;
+  padding: 30px;
+  margin: 15px;
+  color: #860382;
+
+}
+

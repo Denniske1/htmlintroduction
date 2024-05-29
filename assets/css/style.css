@@ -1,0 +1,60 @@
+.fruits{
+  border: 2px solid red;
+  text-align: center;
+  padding: 30px;
+  margin: 15px;
+  color: darkblue;
+  font-family: Copperplate;
+
+}
+.cars{
+   border: 2px solid #860382;
+  text-align: center;
+  padding: 30px;
+  margin: 15px;
+  color: #45a609;
+   font-family: Copperplate;
+}
+.Fruits{
+   border: 2px solid #bb4b08;
+  text-align: center;
+  padding: 30px;
+  margin: 15px;
+  color: #0b87be;
+   font-family: Copperplate;
+}
+h2{
+  font-family: Futura;
+}
+#School{
+  border: 2px solid #bb4b08;
+  text-align: center;
+  padding: 30px;
+  margin: 15px;
+  color: #0b87be;
+   font-family: Copperplate;
+
+}
+.class{
+  text-align: center;
+}
+input {
+  width: 18%;
+
+  padding: 10px;
+
+}
+h2{
+  text-align: center;
+}
+input[type=text]{
+  text-align: center;
+}
+.myform{
+  border: 4px solid coral;
+  text-align: left;
+  padding: 30px;
+  margin: 15px;
+  color: #860382;
+
+}
